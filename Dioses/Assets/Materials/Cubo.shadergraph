@@ -913,7 +913,7 @@
         "m_Id": "3446519ead8f4af7a7de05e35659e1ac"
     },
     "m_SurfaceType": 0,
-    "m_AlphaMode": 0,
+    "m_AlphaMode": 3,
     "m_TwoSided": false,
     "m_AlphaClip": false,
     "m_CustomEditorGUI": ""
